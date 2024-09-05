@@ -4,8 +4,6 @@
 
 - [Description](#description)
 
-- [Live-URL](#live-url)
-
 - [Screenshots](#screenshots)
 
 - [Technologies-Used](#technologies-used)
@@ -25,7 +23,7 @@ This application was refactored from using strictly routing and express, to now 
 
 ## Live URL
 
-[Link to live URL]()
+[Link to live URL](https://main--beamish-tulumba-9a9686.netlify.app/)
 
 ## Screenshots
 
